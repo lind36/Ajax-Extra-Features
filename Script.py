@@ -82,7 +82,7 @@ Note:- Give a user details
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/malayalam_movies_updates><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Minnal murali  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. ᗩᒍᗩ᙭ should have admin privillage.
