@@ -138,7 +138,7 @@ Translate text to speech
 
 • Minnal murali should have admin privillage.
 • These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• Minnal murali can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
